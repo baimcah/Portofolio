@@ -14,35 +14,66 @@ Diploma III Mechatronics student passionate about **PLC programming**, **SCADA s
 
 ---
 
-## 📋 Featured Projects
+## 📋 Featured Projects (7 Completed)
 
-### 1. **SCADA-Based Automation: Recycled Plastic Bottle Cap Manufacturing**
+### 1. **SCADA-Based Automation: Recycled Plastic Bottle Cap Manufacturing** ✅
    - **Tech Stack:** SCADA, HMI (NB Designer), PLC (Omron CP1E), Sensors, Motor Control
    - **Impact:** 80% faster processing, 99.2% batch accuracy, 5 safety interlocks
+   - **Status:** Completed & Operational
    - [View Details →](./scada-plastic-bottle-cap/)
 
-### 2. **Water Usage Monitoring with OCR** *(In Progress)*
-   - **Tech Stack:** ESP32-CAM, Python, OCR (Optical Character Recognition), IoT
-   - **Objective:** Automated meter reading system with real-time data logging
+### 2. **Automatic Paint Filling System with PLC & HMI** ✅
+   - **Tech Stack:** PLC (Omron CP1E), HMI (NB Designer), Precision Control
+   - **Impact:** Increased accuracy, efficiency, and worker safety in industrial paint filling process
+   - **Status:** Completed
+   - **Tech:** CX-Programmer, NB Designer
 
-### 3. **Queue Monitoring System with YOLOv11 AI** *(In Progress)*
+### 3. **Water Usage Monitoring System with OCR** ✅
+   - **Tech Stack:** ESP32-CAM, Python, OCR (Optical Character Recognition), IoT
+   - **Impact:** Automated meter reading with 99% accuracy, real-time data logging
+   - **Status:** Completed
+   - **Application:** ASTRATech water consumption tracking
+
+### 4. **Queue Monitoring System with YOLOv11 AI** ✅
    - **Tech Stack:** YOLOv11, Node-RED, Real-time Object Detection, MQTT
-   - **Objective:** Real-time crowd detection & queue analytics for service optimization
+   - **Impact:** Real-time crowd detection, reduced wait times, actionable queue analytics
+   - **Status:** Completed
+   - **Use Case:** Service queue optimization & management
+
+### 5. **Real-Time Electricity Consumption Monitoring System (IoT + Android)** ✅
+   - **Tech Stack:** IoT Sensors, Firebase Database, Android App, Real-time Visualization
+   - **Impact:** Efficient electricity monitoring, interactive dashboard with live graphs
+   - **Status:** Completed
+   - **Features:** Mobile app with real-time alerts & analytics
+
+### 6. **Mini Automatic Clothes Drying System** ✅
+   - **Tech Stack:** ESP32, Arduino, Light Sensor, Rain Detection Sensor, Motor Servo
+   - **Impact:** Automated weather-responsive operation, minimal manual intervention
+   - **Status:** Completed
+   - **Features:** Auto-close on rain/clouds, auto-open on clear weather
+
+### 7. **Automatic Multi-System: Chicken Coop, Catfish Pond & Hydroponic Plant** ✅
+   - **Tech Stack:** Multiple Sensors (Temperature, Humidity, Water Level), Microcontroller
+   - **Impact:** Automated environmental control, 24/7 monitoring, reduced manual labor
+   - **Status:** Completed (Non-Akademik Project)
+   - **Features:** Temperature regulation, humidity control, automatic watering system
 
 ---
 
 ## 💼 Skills
 
 **Industrial Automation:**
-- PLC Programming (Omron, Siemens, Allen-Bradley)
+- PLC Programming (Omron CP1E, Siemens, Allen-Bradley)
 - SCADA/HMI (FactoryTalk, Wonderware, GX Designer, NB Designer)
 - Control Panel Wiring & Commissioning
 - Ladder Logic Design
+- Motor Control & Sequencing
 
 **IoT & Electronics:**
 - Embedded Systems (ESP32, Arduino)
-- Sensor Integration (Temperature, Pressure, Level)
-- MQTT Protocol, Data Logging
+- Sensor Integration (Temperature, Pressure, Level, Light, Rain Detection)
+- MQTT Protocol, Firebase Database
+- Real-time Data Logging & Monitoring
 - Python Programming
 
 **AI & Computer Vision:**
@@ -53,6 +84,15 @@ Diploma III Mechatronics student passionate about **PLC programming**, **SCADA s
 **Robotics:**
 - ABB GoFa Collaborative Robot Programming
 - Robot Safety Standards (ISO/TS 15066)
+- Material Handling Applications
+
+**Tools & Software:**
+- Arduino IDE, Visual Studio Code
+- CX-Programmer, CX-Designer
+- GX Work, GT Designer
+- HaiWell Happy, HaiWell Cloud
+- AVEVA System Platform
+- Android Studio
 
 ---
 
@@ -62,6 +102,7 @@ Diploma III Mechatronics student passionate about **PLC programming**, **SCADA s
 Politeknik Astra, Cikarang, Jawa Barat
 - GPA: 3.30
 - Focus: Industrial Automation, IoT, Robotics
+- Competitive Programming Participant (National PLC Competition)
 
 ---
 
@@ -73,11 +114,24 @@ Politeknik Astra, Cikarang, Jawa Barat
 
 ---
 
+## 💼 Work Experience
+
+**PT Winteq Indonesia** (Electrical Engineering Division)
+- **Role:** Intern
+- **Duration:** 6 months
+- **Responsibilities:** 
+  - PLC-based control panel wiring & commissioning
+  - Industrial project troubleshooting & testing
+  - Field implementation & validation
+
+---
+
 ## 🔨 Current Focus
 
 - Expanding SCADA expertise (FactoryTalk, Wonderware)
-- IoT project monetization (Fiverr, consulting)
-- Building freelance consulting practice
+- IoT project monetization (Fiverr consulting)
+- Building freelance automation consulting practice
+- Preparing for O&G industry entry (Oil & Gas automation roles)
 
 ---
 
@@ -90,4 +144,4 @@ Politeknik Astra, Cikarang, Jawa Barat
 
 ---
 
-*Last Updated: April 2025*
+*Last Updated: April 2025 | Portfolio Version 1.0*
