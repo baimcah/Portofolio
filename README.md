@@ -14,49 +14,49 @@ Diploma III Mechatronics student passionate about **PLC programming**, **SCADA s
 
 ---
 
-## 📋 Featured Projects (7 Completed)
+## 📋 All Projects (7 Completed)
 
 ### 1. **SCADA-Based Automation: Recycled Plastic Bottle Cap Manufacturing** ✅
    - **Tech Stack:** SCADA, HMI (NB Designer), PLC (Omron CP1E), Sensors, Motor Control
    - **Impact:** 80% faster processing, 99.2% batch accuracy, 5 safety interlocks
    - **Status:** Completed & Operational
-   - [View Details →](./scada-plastic-bottle-cap/)
+   - **[View Project →](./scada-plastic-bottle-cap/)**
 
-### 2. **Automatic Paint Filling System with PLC & HMI** ✅
-   - **Tech Stack:** PLC (Omron CP1E), HMI (NB Designer), Precision Control
-   - **Impact:** Increased accuracy, efficiency, and worker safety in industrial paint filling process
-   - **Status:** Completed
-   - **Tech:** CX-Programmer, NB Designer
-
-### 3. **Water Usage Monitoring System with OCR** ✅
-   - **Tech Stack:** ESP32-CAM, Python, OCR (Optical Character Recognition), IoT
-   - **Impact:** Automated meter reading with 99% accuracy, real-time data logging
-   - **Status:** Completed
-   - **Application:** ASTRATech water consumption tracking
-
-### 4. **Queue Monitoring System with YOLOv11 AI** ✅
-   - **Tech Stack:** YOLOv11, Node-RED, Real-time Object Detection, MQTT
-   - **Impact:** Real-time crowd detection, reduced wait times, actionable queue analytics
-   - **Status:** Completed
-   - **Use Case:** Service queue optimization & management
-
-### 5. **Real-Time Electricity Consumption Monitoring System (IoT + Android)** ✅
+### 2. **Real-Time Electricity Consumption Monitoring System (IoT + Android)** ✅
    - **Tech Stack:** IoT Sensors, Firebase Database, Android App, Real-time Visualization
-   - **Impact:** Efficient electricity monitoring, interactive dashboard with live graphs
-   - **Status:** Completed
-   - **Features:** Mobile app with real-time alerts & analytics
+   - **Impact:** Real-time monitoring, interactive dashboard with live graphs, consumption analytics
+   - **Status:** Completed & Deployed
+   - **[View Project →](./electricity-monitoring-iot/)**
+
+### 3. **Queue Monitoring System with YOLOv11 AI** ✅
+   - **Tech Stack:** YOLOv11, Node-RED, Real-time Object Detection, MQTT
+   - **Impact:** 99%+ detection accuracy, real-time crowd analytics, service optimization
+   - **Status:** Completed & Operational
+   - **[View Project →](./queue-monitoring-yolov11/)**
+
+### 4. **Automatic Paint Filling System with PLC & HMI** ✅
+   - **Tech Stack:** PLC (Omron CP1E), HMI (NB Designer), Precision Control, Safety Interlocks
+   - **Impact:** ±2% accuracy, 3x faster than manual, 100% consistency, zero spillage
+   - **Status:** Completed & Operational
+   - **[View Project →](./automatic-paint-filling/)**
+
+### 5. **Water Usage Monitoring with OCR-Based Meter Reading** ✅
+   - **Tech Stack:** ESP32-CAM, Python, OCR (Optical Character Recognition), IoT
+   - **Impact:** 99%+ OCR accuracy, real-time monitoring, leak detection, complete audit trail
+   - **Status:** Completed & Operational (ASTRATech)
+   - **[View Project →](./water-monitoring-ocr/)**
 
 ### 6. **Mini Automatic Clothes Drying System** ✅
-   - **Tech Stack:** ESP32, Arduino, Light Sensor, Rain Detection Sensor, Motor Servo
-   - **Impact:** Automated weather-responsive operation, minimal manual intervention
-   - **Status:** Completed
-   - **Features:** Auto-close on rain/clouds, auto-open on clear weather
+   - **Tech Stack:** ESP32, Arduino, Light Sensor, Rain Detection, Motor Servo
+   - **Impact:** Auto-retract in rain, auto-deploy when clear, zero manual intervention
+   - **Status:** Completed & Functional
+   - **[View Project →](./clothes-drying-system/)**
 
 ### 7. **Automatic Multi-System: Chicken Coop, Catfish Pond & Hydroponic Plant** ✅
-   - **Tech Stack:** Multiple Sensors (Temperature, Humidity, Water Level), Microcontroller
-   - **Impact:** Automated environmental control, 24/7 monitoring, reduced manual labor
-   - **Status:** Completed (Non-Akademik Project)
-   - **Features:** Temperature regulation, humidity control, automatic watering system
+   - **Tech Stack:** Multiple Sensors (Temperature, Humidity, Water Level), Microcontroller, Relay Control
+   - **Impact:** 24/7 autonomous operation, ±2°C temperature control, optimized growth conditions
+   - **Status:** Completed & Operational (Non-Akademik Project)
+   - **[View Project →](./multi-system-automation/)**
 
 ---
 
@@ -68,18 +68,21 @@ Diploma III Mechatronics student passionate about **PLC programming**, **SCADA s
 - Control Panel Wiring & Commissioning
 - Ladder Logic Design
 - Motor Control & Sequencing
+- Safety Interlocks & Alarming
 
 **IoT & Electronics:**
 - Embedded Systems (ESP32, Arduino)
-- Sensor Integration (Temperature, Pressure, Level, Light, Rain Detection)
+- Sensor Integration (Temperature, Pressure, Level, Light, Rain Detection, pH)
 - MQTT Protocol, Firebase Database
 - Real-time Data Logging & Monitoring
 - Python Programming
+- PCB Design & Prototyping
 
 **AI & Computer Vision:**
 - YOLOv11 Object Detection
 - OCR (Optical Character Recognition)
 - Real-time Data Processing
+- Computer Vision with OpenCV
 
 **Robotics:**
 - ABB GoFa Collaborative Robot Programming
@@ -87,12 +90,14 @@ Diploma III Mechatronics student passionate about **PLC programming**, **SCADA s
 - Material Handling Applications
 
 **Tools & Software:**
-- Arduino IDE, Visual Studio Code
+- Arduino IDE, Visual Studio Code, Python
 - CX-Programmer, CX-Designer
 - GX Work, GT Designer
+- NB Designer (HMI)
 - HaiWell Happy, HaiWell Cloud
 - AVEVA System Platform
 - Android Studio
+- Tia Portal
 
 ---
 
@@ -102,7 +107,7 @@ Diploma III Mechatronics student passionate about **PLC programming**, **SCADA s
 Politeknik Astra, Cikarang, Jawa Barat
 - GPA: 3.30
 - Focus: Industrial Automation, IoT, Robotics
-- Competitive Programming Participant (National PLC Competition)
+- Participant: National Programmable Logic Control Competition
 
 ---
 
@@ -122,16 +127,25 @@ Politeknik Astra, Cikarang, Jawa Barat
 - **Responsibilities:** 
   - PLC-based control panel wiring & commissioning
   - Industrial project troubleshooting & testing
-  - Field implementation & validation
+  - Field implementation & validation across multiple projects
 
 ---
 
 ## 🔨 Current Focus
 
-- Expanding SCADA expertise (FactoryTalk, Wonderware)
-- IoT project monetization (Fiverr consulting)
-- Building freelance automation consulting practice
+- Expanding SCADA expertise (FactoryTalk, Wonderware mastery)
+- IoT project monetization (Fiverr consulting, freelance)
+- Building automation consulting practice
 - Preparing for O&G industry entry (Oil & Gas automation roles)
+- Advanced PLC programming (safety systems, redundancy)
+
+---
+
+## 🎯 Target Industries
+
+- **Primary:** Oil & Gas (Automation & Instrumentation)
+- **Secondary:** Manufacturing, Power Generation, Water Treatment
+- **Consulting:** Industrial IoT, Process Automation
 
 ---
 
@@ -141,7 +155,8 @@ Politeknik Astra, Cikarang, Jawa Barat
 - **Phone:** +62 819 3361 4442
 - **LinkedIn:** [mohamadibrahimsyah](https://linkedin.com/in/mohamadibrahimsyah)
 - **GitHub:** [@baimcah](https://github.com/baimcah)
+- **GitHub Portfolio:** [github.com/baimcah/portfolio](https://github.com/baimcah/portfolio)
 
 ---
 
-*Last Updated: April 2025 | Portfolio Version 1.0*
+*Last Updated: April 2025 | Portfolio Version 1.1 | 7 Projects Complete*
